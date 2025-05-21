@@ -25,3 +25,4 @@ transition: all 0.5s ease → Animações fluidas em hover/focus.
 Rhariel Marcelo de oliveira Permanhani
 
 https://github.com/Rhariel/CP-3-Frontend.git
+https://rhariel.github.io/CP-3-Frontend/
